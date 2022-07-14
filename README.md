@@ -48,5 +48,5 @@
 ### 💻 Dev Environment
 [<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?&style=for-the-badge&logo=ubuntu&logoColor=white" />]()
 [<img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />]()
-[<img alt="ASUS ROG" src="https://img.shields.io/badge/ROG-G14-eeeeee?style=for-the-badge&logo=asus&logoColor=white" />]()
+[<img alt="ASUS ROG" src="https://img.shields.io/badge/ROG-G14-Ryzen-9-eeeeee?style=for-the-badge&logo=asus&logoColor=white" />]()
 [<img alt="NVIDIA RTX 3060" src="https://img.shields.io/badge/NVIDIA-RTX 3060-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />]()
