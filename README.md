@@ -8,16 +8,9 @@
 
 ## Connect With Me:
 
-
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only) &nbsp;&nbsp;
-
-
-
-
-[![website](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/instagram-light.svg)](https://twitter.com/jacksonsunny29#gh-light-mode-only)
-[![website](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/instagram-dark.svg)](https://twitter.com/jacksonsunny29#gh-dark-mode-only) &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/jackson-sunny-871418172#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/jackson-sunny-871418172#gh-dark-mode-only) &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/jack__.29#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/jack__.29#gh-dark-mode-only)
+[![website](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/twitter-light.svg)](https://twitter.com/jacksonsunny29#gh-light-mode-only)
+[![website](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/twitter-dark.svg)](https://twitter.com/jacksonsunny29#gh-dark-mode-only) &nbsp;&nbsp;
+[![website](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/linkedin-light.svg)](https://www.linkedin.com/in/jackson-sunny-871418172#gh-light-mode-only)
+[![website](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/linkedin-dark.svg)](https://www.linkedin.com/in/jackson-sunny-871418172#gh-dark-mode-only) &nbsp;&nbsp;
+[![website](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/instagram-light.svg)](https://instagram.com/jack__.29#gh-light-mode-only)
+[![website](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/instagram-dark.svg)](https://instagram.com/jack__.29#gh-dark-mode-only)
