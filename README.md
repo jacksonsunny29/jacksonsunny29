@@ -2,7 +2,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/jacksonsunny29?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjacksonsunny29&screen_name=jacksonsunny29)
 ## I'm a Son, Friend, Developer, and a Mathematician!!
 
-- 🔭 I’m a Master's Student at Ecole Polytechnique, Paris
+- 🔭 I’m an AI Master's Student at Ecole Polytechnique, Paris
 - 👯 I’m looking to collaborate with best minds of the world.
 - 🥅 2022 Goals: Deep Dive into AI, Algorithms, Mathematics and Physics!
 
