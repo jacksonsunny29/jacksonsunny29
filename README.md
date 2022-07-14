@@ -18,6 +18,7 @@
 
 ## Languages and Tools:
 
+[<img alt="C" src="https://img.shields.io/badge/-c-black?logo=c%2B%2B&style=for-the-badge&logoColor=blue" />]()
 [<img alt="C++" src="https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=for-the-badge&logoColor=yellow" />]()
 [<img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />]()
 [<img alt="Docker" src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />]()
