@@ -3,7 +3,7 @@
 ## I'm a Son, Friend, Developer, and a Mathematician!!
 
 - 🔭 I’m an AI Master's Student at Ecole Polytechnique, Paris
-- 👯 I’m looking to collaborate with best minds of the world.
+- 👯 I’m looking to collaborate with the best minds of the world.
 - 🥅 2022 Goals: Deep Dive into AI, Algorithms, Mathematics and Physics!
 
 ## Connect With Me:
