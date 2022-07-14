@@ -1,13 +1,13 @@
-# Bonjour, I'm Jackson 👋 🇮🇳 ✈️ 🇫🇷 
+## Bonjour, I'm Jackson 👋 🇮🇳 ✈️ 🇫🇷 
 [![Twitter Follow](https://img.shields.io/twitter/follow/jacksonsunny29?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjacksonsunny29&screen_name=jacksonsunny29)
 <br>
-## 👨🏻‍💻 ABOUT ME
+### 👨🏻‍💻 ABOUT ME
 
 - 🔭 I’m an AI Master's Student at Ecole Polytechnique, Paris
 - 👯 I’m looking to collaborate with the best minds of the world.
 - 🥅 2022 Goals: Deep Dive into AI, Algorithms, Mathematics and Physics!
 
-## 🚀 CONNECT WITH ME
+### 🚀 CONNECT WITH ME
 
 [![website](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/twitter-light.svg)](https://twitter.com/jacksonsunny29#gh-light-mode-only)
 [![website](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/twitter-dark.svg)](https://twitter.com/jacksonsunny29#gh-dark-mode-only) &nbsp;&nbsp;
@@ -18,7 +18,7 @@
 <br>
 <br>
 
-## LANGUAGES AND TOOLS
+### 🔨 LANGUAGES AND TOOLS
 
 [<img alt="C" src="https://img.shields.io/badge/-c-black?logo=c%2B%2B&style=for-the-badge&logoColor=blue" />]()
 [<img alt="C++" src="https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=for-the-badge&logoColor=yellow" />]()
