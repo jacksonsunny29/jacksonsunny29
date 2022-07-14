@@ -17,8 +17,7 @@
 [![website](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/instagram-light.svg)](https://instagram.com/jack__.29#gh-light-mode-only)
 [![website](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/instagram-dark.svg)](https://instagram.com/jack__.29#gh-dark-mode-only)
 ---------------------------------------------------
-<br>
-<br>
+
 
 ### 🔨 **LANGUAGES AND TOOLS**
 
@@ -43,9 +42,9 @@
 <a href="https://github.com/jacksonsunny29">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jacksonsunny29&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jacksonsunny29&layout=compact&langs_count=8&theme=react"/>
------------------------------------------------------
 </a>
 </p>
+-----------------------------------------------------
 <br>
 
 
