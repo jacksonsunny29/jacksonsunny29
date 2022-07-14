@@ -32,10 +32,8 @@
 [<img alt="DeepStream" src="https://img.shields.io/badge/DeepStream-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />]()
 [<img alt="Jetson" src="https://img.shields.io/badge/Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />]()
 
-
 <br />
 <br />
-
 
 ### ⚙ &nbsp;GitHub Analytics
 
