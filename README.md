@@ -1,4 +1,4 @@
-# Bonjour, I'm Jackson 👋
+# Bonjour, I'm Jackson 👋 🇮🇳 ▶️ 🇫🇷 
 [![Twitter Follow](https://img.shields.io/twitter/follow/jacksonsunny29?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjacksonsunny29&screen_name=jacksonsunny29)
 ## I'm a Son, Friend, Developer, and a Mathematician!!
 
@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate with the best minds of the world.
 - 🥅 2022 Goals: Deep Dive into AI, Algorithms, Mathematics and Physics!
 
-## Connect With Me:
+## 🚀Connect With Me:
 
 [![website](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/twitter-light.svg)](https://twitter.com/jacksonsunny29#gh-light-mode-only)
 [![website](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/twitter-dark.svg)](https://twitter.com/jacksonsunny29#gh-dark-mode-only) &nbsp;&nbsp;
@@ -35,7 +35,7 @@
 <br />
 
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/jacksonsunny29">
@@ -46,7 +46,7 @@
 <br>
 
 
-### 🖥️ Dev Environment
+### 💻 Dev Environment
 [<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?&style=for-the-badge&logo=ubuntu&logoColor=white" />]()
 [<img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />]()
 [<img alt="ASUS ROG" src="https://img.shields.io/badge/ROG-G14-eeeeee?style=for-the-badge&logo=asus&logoColor=white" />]()
