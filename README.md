@@ -7,7 +7,6 @@
 - 👯 I’m looking to collaborate with the best minds of the world.
 - 🥅 2022 Goals: Deep Dive into AI, Algorithms, Mathematics and Physics!
 <br>
-
 ## 🚀 CONNECT WITH ME
 
 [![website](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/twitter-light.svg)](https://twitter.com/jacksonsunny29#gh-light-mode-only)
