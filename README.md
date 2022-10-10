@@ -1,4 +1,4 @@
-## Bonjour, I'm Jackson 👋 
+## Namaste, I'm Jackson 👋 
 [![Twitter Follow](https://img.shields.io/twitter/follow/jacksonsunny29?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjacksonsunny29&screen_name=jacksonsunny29)
 <br>
 ### 👨🏻‍💻 **ABOUT ME**
