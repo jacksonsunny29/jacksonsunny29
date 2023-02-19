@@ -5,7 +5,7 @@
 
 - 🔭 I’m an AI Master's Student at Ecole Polytechnique, Paris
 - 👯 I’m looking to collaborate with the best minds of the world.
-- 🥅 2023 Goals: Deep Dive into Reinforcement Learning, Algorithms, Mathematics and Physics!
+- 🥅 2023 Goals: Deep Dive into Reinforcement Learning, Algorithms and Robotics!
 -------------------------------------------------
 
 ### 🚀 **CONNECT WITH ME**
