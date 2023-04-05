@@ -3,7 +3,7 @@
 <br>
 ### 👨🏻‍💻 **ABOUT ME**
 
-- 🔭 I’m an AI Master's Student at Ecole Polytechnique, Paris
+- 🔭 I’m an AI and Visual Computing Master's Student at Ecole Polytechnique, Paris
 - 👯 I’m looking to collaborate with the best minds of the world.
 - 🥅 2023 Goals: Deep Dive into Reinforcement Learning, Algorithms and Robotics!
 -------------------------------------------------
