@@ -5,7 +5,7 @@
 
 - 🔭 I’m an AI and Visual Computing Master's Student at Ecole Polytechnique, Paris
 - 👯 I’m looking to collaborate with the best minds of the world.
-- 🥅 2023 Goals: Deep Dive into 3D Computer Vision, Algorithms and Robotics!
+- 🥅 2024 Goals: Deep Dive into 3D Computer Vision, Algorithms and Robotics!
 -------------------------------------------------
 
 ### 🚀 **CONNECT WITH ME**
