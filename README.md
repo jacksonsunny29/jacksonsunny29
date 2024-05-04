@@ -3,7 +3,8 @@
 <br>
 ### 👨🏻‍💻 **ABOUT ME**
 
-- 🔭 I’m an AI and Visual Computing Master's Student at Ecole Polytechnique, Paris, interning at SAMP SAS, Paris.
+- 🔭 I’m an AI and Visual Computing Master's Student at Ecole Polytechnique, Paris.
+- 💻 I'm interning with SAMP SAS, Paris on 3D Computer Vision.
 - 👯 I’m looking to collaborate with everyone to learn and build amazing products.
 - 🥅 2024 Goals: Deep Dive into 3D Computer Vision, Algorithms and Mathematics!
 - ✨ We can also talk about literature, philosophy, physics and love!
