@@ -7,7 +7,7 @@
 - 💻 I'm interning with SAMP SAS, Paris on 3D Computer Vision.
 - 👯 I’m looking to collaborate with everyone to learn and build amazing products.
 - 🥅 2024 Goals: Deep Dive into 3D Computer Vision, Algorithms and Mathematics!
-- ✨ We can be good friends if you're interested literature, philosophy, physics and love!
+- ✨ We can be good friends if you're interested in literature, philosophy, physics and love!
 -------------------------------------------------
 
 ### 🚀 **CONNECT WITH ME**
