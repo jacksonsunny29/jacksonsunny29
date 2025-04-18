@@ -3,10 +3,10 @@
 <br>
 ### 👨🏻‍💻 **ABOUT ME**
 
-- 🔭 I’m an AI and Visual Computing Master's Student at Ecole Polytechnique, Paris.
-- 💻 I'm interning with SAMP SAS, Paris on 3D Computer Vision.
+- 🔭 I’m an AI and Visual Computing Specialist.
+- 💻 I've interned and worked with Telecom Paris and  SAMP SAS, Paris on Computational geometry and 3D Computer Vision respectively.
 - 👯 I’m looking to collaborate with everyone to learn and build amazing products.
-- 🥅 2024 Goals: Deep Dive into 3D Computer Vision, Algorithms and Mathematics!
+- 🥅 2025 Goals: Deep Dive into 3D Computer Vision, Algorithms and Mathematics!
 - ✨ We can be good friends if you're interested in literature, philosophy and physics!
 -------------------------------------------------
 
