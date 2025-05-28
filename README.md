@@ -4,6 +4,7 @@
 ### 👨🏻‍💻 **ABOUT ME**
 
 - 🔭 I’m an AI and Visual Computing Specialist.
+- 💻 I've worked with Samp.ai as an AI Engineer.
 - 💻 I've interned and worked with Telecom Paris and  SAMP.ai on Computational geometry and 3D Computer Vision respectively.
 - 👯 I’m looking to collaborate with everyone to learn and build amazing products.
 - 🥅 2025 Goals: Deep Dive into 3D Computer Vision, Algorithms and Mathematics!
