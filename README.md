@@ -6,7 +6,7 @@
 - 🔭 I’m an AI and Visual Computing Specialist.
 - 🔬 I'm starting as a doctoral student in LLMs and VR with Orange and IMT Atlantique. 
 - 📚 I've a masters in Artificial Intelligence and Advance Visual Computing from Ecole Polytechnique, Paris.
-- 💻 I've worked with Samp.ai as an AI Engineer.
+- 💻 I've worked with Samp.ai as an AI Engineer in Paris.
 - 💻 I've interned with Telecom Paris and  SAMP.ai on Computational geometry and 3D Computer Vision respectively.
 - 👯 I’m looking to collaborate with everyone to learn and build amazing products.
 - 🥅 2025 Goals: Deep Dive into 3D Computer Vision, Algorithms and Mathematics!
